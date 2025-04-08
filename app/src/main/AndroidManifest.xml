@@ -13,7 +13,10 @@
         android:theme="@style/Theme.AulaSQLiteMobile"
         tools:targetApi="31">
         <activity
-            android:name=".ToDoActivity"
+            android:name=".ac1.HabitsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ac1.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,8 +25,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:exported="false">
+            android:name=".ToDoActivity"
+            android:exported="true">
         </activity>
     </application>
 
