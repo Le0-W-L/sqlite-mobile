@@ -1,3 +1,19 @@
-<resources>
-    <string name="app_name">AulaSQLiteMobile</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">Habit App</string>
+    <string name="main_activity_title">Main Activity</string>
+    <string name="habits_activity_title">Habits Activity</string>
+    <string name="hint_title">Type a title:</string>
+    <string name="hint_description">Type a description:</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="fill_fields">Please fill all fields!</string>
+    <string name="habit_created">Habit created!</string>
+    <string name="habit_updated">Habit updated!</string>
+    <string name="habit_deleted">Habit deleted!</string>
+    <string name="habit_label">Habit</string>
+    <string name="description_label">Description</string>
+    <string name="done_label">Done today</string>
+    <string name="done_yes">✅ Yes</string>
+    <string name="done_no">❌ No</string>
 </resources>

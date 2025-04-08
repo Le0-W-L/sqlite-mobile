@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">App de Hábitos</string>
+    <string name="main_activity_title">Tela Principal</string>
+    <string name="habits_activity_title">Cadastro de Hábitos</string>
+    <string name="hint_title">Digite um título:</string>
+    <string name="hint_description">Digite uma descrição:</string>
+    <string name="save">Salvar</string>
+    <string name="done">Feito</string>
+    <string name="fill_fields">Preencha todos os campos!</string>
+    <string name="habit_created">Hábito criado!</string>
+    <string name="habit_updated">Hábito atualizado!</string>
+    <string name="habit_deleted">Hábito excluído!</string>
+    <string name="habit_label">Hábito</string>
+    <string name="description_label">Descrição</string>
+    <string name="done_label">Feito hoje</string>
+    <string name="done_yes">✅ Sim</string>
+    <string name="done_no">❌ Não</string>
+</resources>

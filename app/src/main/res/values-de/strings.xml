@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gewohnheiten App</string>
+    <string name="main_activity_title">Hauptbildschirm</string>
+    <string name="habits_activity_title">Gewohnheit bearbeiten</string>
+    <string name="hint_title">Geben Sie einen Titel ein:</string>
+    <string name="hint_description">Geben Sie eine Beschreibung ein:</string>
+    <string name="save">Speichern</string>
+    <string name="done">Erledigt</string>
+    <string name="fill_fields">Bitte alle Felder ausfüllen!</string>
+    <string name="habit_created">Gewohnheit erstellt!</string>
+    <string name="habit_updated">Gewohnheit aktualisiert!</string>
+    <string name="habit_deleted">Gewohnheit gelöscht!</string>
+    <string name="habit_label">Gewohnheit</string>
+    <string name="description_label">Beschreibung</string>
+    <string name="done_label">Heute erledigt</string>
+    <string name="done_yes">✅ Ja</string>
+    <string name="done_no">❌ Nein</string>
+</resources>
